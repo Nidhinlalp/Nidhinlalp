@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nidhinlal
+=================================================================================================================================
 
-<!--
-**Nidhinlalp/Nidhinlalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iam flutter developper
+----------------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in india
+* 🖥️  See my portfolio at [this my personal web](http://https://nidhinlalp.github.io/nidhinWeb/)
+* ✉️  You can contact me at [lalnidhinp02@mil.com](mailto:lalnidhinp02@mil.com)
+* 🚀  I'm currently working on [simplemoneymanager](http://https://github.com/Nidhinlalp/SimpleMoneyManager)
+* 🧠  I'm learning flutter
+* ⚡  Actually I am a big contributor but no one knows that
