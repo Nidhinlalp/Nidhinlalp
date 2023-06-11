@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nidhinlalp](https://github.com/Nidhinlalp)
 
-- 💬 Ask me about **Dart, Flutter, Hive, Firebase, sql, State management, Figma**
+- 💬 Ask me about **Dart, Flutter, Hive, Firebase, Node, MongoDb ,sql, State management, Figma**
 
 - 📫 How to reach me **lalnidhinp02@gmail.com**
 
