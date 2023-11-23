@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **freelancer**
 
-- 🌱 I’m currently learning **Rest api, and Nord js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nidhinlalp](https://github.com/Nidhinlalp)
 
