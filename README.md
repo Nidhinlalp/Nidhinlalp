@@ -3,7 +3,7 @@
 <h3 align="center">A passionate flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhinlalp&label=Profile%20views&color=0e75b6&style=flat" alt="nidhinlalp" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/21/3a/61/213a61dc8c308ef4f22779d72a214ee2.jpg
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/21/3a/61/213a61dc8c308ef4f22779d72a214ee2.jpg">
 
 - ## Current Focus
 - 🔭 I’m currently working on [Foxena](https://foxena.com). 
