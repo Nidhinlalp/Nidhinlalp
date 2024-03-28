@@ -8,9 +8,11 @@
 - ## Current Focus
 
 - 📍 **Next.js**
+- 📍 **React.js**
 - 📍 **FLUTTER**
 
-##
+
+  ##
 
 * 🔭 I’m currently working on [Foxena](https://foxena.com). 
 
