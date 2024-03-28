@@ -3,9 +3,24 @@
 <h3 align="center">A passionate flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhinlalp&label=Profile%20views&color=0e75b6&style=flat" alt="nidhinlalp" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/21/3a/61/213a61dc8c308ef4f22779d72a214ee2.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/21/3a/61/213a61dc8c308ef4f22779d72a214ee2.jpg
 
-- 🔭 I’m currently working on **foxena**
+- ## Current Focus
+- 🔭 I’m currently working on [Foxena](https://foxena.com). 
+
+## Industry Projects
+
+- [Ultraviolette Application and Website](https://www.ultraviolette.com)
+  Description: Currently working on the development of the Ultraviolette application and website.
+  
+- Xpd8 Project
+  Description: Currently involved in the ongoing development of the Xpd8 project.  
+
+- [The Ceyone Website](https://www.theceyone.com)
+  Description: Contributed to the development of The Ceyone website.
+
+- [Sunonix Website](https://sunonix.com)
+  Description: Participated in the development of the Sunonix website.
 
 - 🌱 I’m currently learning **Next.js**
 
