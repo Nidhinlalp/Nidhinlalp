@@ -10,7 +10,9 @@
 - 📍 **Next.js**
 - 📍 **FLUTTER**
 
-- 🔭 I’m currently working on [Foxena](https://foxena.com). 
+##
+
+* 🔭 I’m currently working on [Foxena](https://foxena.com). 
 
 ## Industry Projects
 
