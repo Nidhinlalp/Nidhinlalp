@@ -7,7 +7,7 @@
 
  
 
-- ## Current Focus
+ ## Current Focus
 
 - 📍 **Next.js**
 - 📍 **React.js**
